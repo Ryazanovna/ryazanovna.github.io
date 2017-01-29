@@ -1,0 +1,1567 @@
+{
+  "settings": {
+    "currentPage": "ДСПГ НЕДЕЛЯ 6.html",
+    "name": "ИНСТРУКТАЖ",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#c0a375",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false
+      }
+    },
+    "versionFirst": "3.11.1",
+    "uniqCompNum": 76,
+    "versionPublish": "3.11.1",
+    "favicon": "",
+    "noImageResize": "",
+    "google-analytics": "Предсменный инструктаж для работников цеха движения поездов"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 1
+      },
+      "components": [
+        {
+          "_inherit": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#000",
+              "text-align": "left"
+            },
+            ".mbr-section-lead": {
+              "color": "#9c9a9a"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header5",
+          "_anchor": "header5-c",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "left",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "инструктаж",
+          "text": "Позволяет быстро найти и изучить выбранную тему<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"МАНЕВРОВЫЙ ДИСПЕТЧЕР.html\" data-toolbar=\"-mbrBtnMove\">МАНЕВРОВЫЙ ДИСПЕТЧЕР</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"ДЕЖУРНЫЙ ПО СТАНЦИИ.html\" data-toolbar=\"-mbrBtnMove\">ДЖУРНЫЙ ПО СТАНЦИИ</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"ПОЕЗДНОЙ ДИСПЕТЧЕР.html\" data-toolbar=\"-mbrBtnMove\">ПОЕЗДНОЙ ДИСПЕТЧЕР</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"ДЕЖУРНЫЙ ПО ГОРКЕ.html\" data-toolbar=\"-mbrBtnMove\">ДЕЖУРНЫЙ ПО ГОРКЕ</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"ПРИЁМОСДАТЧИК.html\" data-toolbar=\"-mbrBtnMove\">ПРИЁМОСДАТЧИК</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"СОСТАВИТЕЛЬ.html\" data-toolbar=\"-mbrBtnMove\">СОСТАВИТЕЛЬ</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"СИГНАЛИСТ.html\" data-toolbar=\"-mbrBtnMove\">СИГНАЛИСТ</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"ПРИЁМЩИК.html\" data-toolbar=\"-mbrBtnMove\">ПРИЁМЩИК</a>"
+        }
+      ]
+    },
+    "ПРИЁМЩИК.html": {
+      "settings": {
+        "title": "Web Site Maker Title",
+        "meta_descr": "Web Site Maker Description",
+        "order": 9
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "18px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "text-align": "right"
+            },
+            "SMALL": {
+              "font-size": "11px",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1r",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#dcdcdc",
+            "showMeta": true
+          },
+          "title": "<span style=\"font-weight: normal;\">ПРИЁМЩИК</span>",
+          "meta": "выберите период"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_styles": {
+            "H3": {
+              "font-size": "18px"
+            },
+            ".btn": {
+              "font-size": "8px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            "P": {
+              "font-size": "12px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
+          "_anchor": "msg-box1-1s",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showButtons": true,
+            "showText": true,
+            "showTitle": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">6 НЕДЕЛЯ 06.02-12.02</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">7 НЕДЕЛЯ 13.02-19.02</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">8 НЕДЕЛЯ 20.02-26.02</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">9 НЕДЕЛЯ 20.02-26.02</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">10НЕДЕЛЯ 27.02-05.02</a>     ",
+          "text": "",
+          "title": "<p>&nbsp; &nbsp; ФЕВРАЛЬ 2017<br></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_styles": {
+            "H3": {
+              "font-size": "18px"
+            },
+            ".btn": {
+              "font-size": "8px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            "P": {
+              "font-size": "12px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
+          "_anchor": "msg-box1-1t",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showButtons": true,
+            "showText": true,
+            "showTitle": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">10НЕДЕЛЯ 06.02-12.02</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">11НЕДЕЛЯ 13.02-19.02</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">12НЕДЕЛЯ 20.02-26.02</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">13НЕДЕЛЯ 20.02-26.02</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">14НЕДЕЛЯ 27.02-05.03</a>     ",
+          "text": "",
+          "title": "<p>&nbsp; &nbsp; МАРТ 2017<br></p>"
+        }
+      ]
+    },
+    "ПРИЁМОСДАТЧИК.html": {
+      "settings": {
+        "title": "Web Site Maker Title",
+        "meta_descr": "Web Site Maker Description",
+        "order": 8
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "18px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "text-align": "right"
+            },
+            "SMALL": {
+              "font-size": "11px",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1o",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#dcdcdc",
+            "showMeta": true
+          },
+          "title": "<span style=\"font-weight: normal;\">ПРИЁМОСДАТЧИК</span>",
+          "meta": "выберите период"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_styles": {
+            "H3": {
+              "font-size": "18px"
+            },
+            ".btn": {
+              "font-size": "8px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            "P": {
+              "font-size": "12px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
+          "_anchor": "msg-box1-1p",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showButtons": true,
+            "showText": true,
+            "showTitle": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">6 НЕДЕЛЯ 06.02-12.02</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">7 НЕДЕЛЯ 13.02-19.02</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">8 НЕДЕЛЯ 20.02-26.02</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">9 НЕДЕЛЯ 20.02-26.02</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">10НЕДЕЛЯ 27.02-05.02</a>     ",
+          "text": "",
+          "title": "<p>&nbsp; &nbsp; ФЕВРАЛЬ 2017<br></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_styles": {
+            "H3": {
+              "font-size": "18px"
+            },
+            ".btn": {
+              "font-size": "8px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            "P": {
+              "font-size": "12px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
+          "_anchor": "msg-box1-1q",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showButtons": true,
+            "showText": true,
+            "showTitle": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">10НЕДЕЛЯ 06.02-12.02</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">11НЕДЕЛЯ 13.02-19.02</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">12НЕДЕЛЯ 20.02-26.02</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">13НЕДЕЛЯ 20.02-26.02</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">14НЕДЕЛЯ 27.02-05.03</a>     ",
+          "text": "",
+          "title": "<p>&nbsp; &nbsp; МАРТ 2017<br></p>"
+        }
+      ]
+    },
+    "СИГНАЛИСТ.html": {
+      "settings": {
+        "title": "Web Site Maker Title",
+        "meta_descr": "Web Site Maker Description",
+        "order": 7
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "18px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "text-align": "right"
+            },
+            "SMALL": {
+              "font-size": "11px",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1l",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#dcdcdc",
+            "showMeta": true
+          },
+          "title": "<span style=\"font-weight: normal;\">СИГНАЛИСТ</span>",
+          "meta": "выберите период"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_styles": {
+            "H3": {
+              "font-size": "18px"
+            },
+            ".btn": {
+              "font-size": "8px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            "P": {
+              "font-size": "12px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
+          "_anchor": "msg-box1-1m",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showButtons": true,
+            "showText": true,
+            "showTitle": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"ДСЦ НЕДЕЛЯ 6.html\" data-toolbar=\"-mbrBtnMove\">6 НЕДЕЛЯ 06.02-12.02</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">7 НЕДЕЛЯ 13.02-19.02</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">8 НЕДЕЛЯ 20.02-26.02</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">9 НЕДЕЛЯ 20.02-26.02</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">10НЕДЕЛЯ 27.02-05.02</a>     ",
+          "text": "",
+          "title": "<p>&nbsp; &nbsp; ФЕВРАЛЬ 2017<br></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_styles": {
+            "H3": {
+              "font-size": "18px"
+            },
+            ".btn": {
+              "font-size": "8px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            "P": {
+              "font-size": "12px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
+          "_anchor": "msg-box1-1n",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showButtons": true,
+            "showText": true,
+            "showTitle": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">10НЕДЕЛЯ 06.02-12.02</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">11НЕДЕЛЯ 13.02-19.02</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">12НЕДЕЛЯ 20.02-26.02</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">13НЕДЕЛЯ 20.02-26.02</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">14НЕДЕЛЯ 27.02-05.03</a>     ",
+          "text": "",
+          "title": "<p>&nbsp; &nbsp; МАРТ 2017<br></p>"
+        }
+      ]
+    },
+    "СОСТАВИТЕЛЬ.html": {
+      "settings": {
+        "title": "Web Site Maker Title",
+        "meta_descr": "Web Site Maker Description",
+        "order": 6
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "18px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "text-align": "right"
+            },
+            "SMALL": {
+              "font-size": "11px",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1i",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#dcdcdc",
+            "showMeta": true
+          },
+          "title": "<span style=\"font-weight: normal;\">СОСТАВИТЕЛЬ</span>",
+          "meta": "выберите период"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_styles": {
+            "H3": {
+              "font-size": "18px"
+            },
+            ".btn": {
+              "font-size": "8px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            "P": {
+              "font-size": "12px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
+          "_anchor": "msg-box1-1j",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showButtons": true,
+            "showText": true,
+            "showTitle": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">6 НЕДЕЛЯ 06.02-12.02</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">7 НЕДЕЛЯ 13.02-19.02</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">8 НЕДЕЛЯ 20.02-26.02</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">9 НЕДЕЛЯ 20.02-26.02</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">10НЕДЕЛЯ 27.02-05.02</a>     ",
+          "text": "",
+          "title": "<p>&nbsp; &nbsp; ФЕВРАЛЬ 2017<br></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_styles": {
+            "H3": {
+              "font-size": "18px"
+            },
+            ".btn": {
+              "font-size": "8px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            "P": {
+              "font-size": "12px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
+          "_anchor": "msg-box1-1k",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showButtons": true,
+            "showText": true,
+            "showTitle": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">10НЕДЕЛЯ 06.02-12.02</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">11НЕДЕЛЯ 13.02-19.02</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">12НЕДЕЛЯ 20.02-26.02</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">13НЕДЕЛЯ 20.02-26.02</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">14НЕДЕЛЯ 27.02-05.03</a>     ",
+          "text": "",
+          "title": "<p>&nbsp; &nbsp; МАРТ 2017<br></p>"
+        }
+      ]
+    },
+    "ДЕЖУРНЫЙ ПО ГОРКЕ.html": {
+      "settings": {
+        "title": "Web Site Maker Title",
+        "meta_descr": "Web Site Maker Description",
+        "order": 5
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "18px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "text-align": "right"
+            },
+            "SMALL": {
+              "font-size": "11px",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1f",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#dcdcdc",
+            "showMeta": true
+          },
+          "title": "<span style=\"font-weight: normal;\">ДЕЖУРНЫЙ ПО ГОРКЕ</span>",
+          "meta": "выберите период"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_styles": {
+            "H3": {
+              "font-size": "18px"
+            },
+            ".btn": {
+              "font-size": "8px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            "P": {
+              "font-size": "12px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
+          "_anchor": "msg-box1-1g",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showButtons": true,
+            "showText": true,
+            "showTitle": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">6 НЕДЕЛЯ 06.02-12.02</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">7 НЕДЕЛЯ 13.02-19.02</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">8 НЕДЕЛЯ 20.02-26.02</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">9 НЕДЕЛЯ 20.02-26.02</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">10НЕДЕЛЯ 27.02-05.02</a>     ",
+          "text": "",
+          "title": "<p>&nbsp; &nbsp; ФЕВРАЛЬ 2017<br></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_styles": {
+            "H3": {
+              "font-size": "18px"
+            },
+            ".btn": {
+              "font-size": "8px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            "P": {
+              "font-size": "12px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
+          "_anchor": "msg-box1-1h",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showButtons": true,
+            "showText": true,
+            "showTitle": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">10НЕДЕЛЯ 06.02-12.02</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">11НЕДЕЛЯ 13.02-19.02</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">12НЕДЕЛЯ 20.02-26.02</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">13НЕДЕЛЯ 20.02-26.02</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">14НЕДЕЛЯ 27.02-05.03</a>     ",
+          "text": "",
+          "title": "<p>&nbsp; &nbsp; МАРТ 2017<br></p>"
+        }
+      ]
+    },
+    "ДЕЖУРНЫЙ ПО СТАНЦИИ.html": {
+      "settings": {
+        "title": "Web Site Maker Title",
+        "meta_descr": "Web Site Maker Description",
+        "order": 4
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "18px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "text-align": "right"
+            },
+            "SMALL": {
+              "font-size": "11px",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1c",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#dcdcdc",
+            "showMeta": true
+          },
+          "title": "<span style=\"font-weight: normal;\">ДЕЖУРНЫЙ ПО СТАНЦИИ</span>",
+          "meta": "выберите период"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_styles": {
+            "H3": {
+              "font-size": "18px"
+            },
+            ".btn": {
+              "font-size": "8px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            "P": {
+              "font-size": "12px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
+          "_anchor": "msg-box1-1d",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showButtons": true,
+            "showText": true,
+            "showTitle": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"ДСП НЕДЕЛЯ 6.html\" data-toolbar=\"-mbrBtnMove\">6 НЕДЕЛЯ 06.02-12.02</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">7 НЕДЕЛЯ 13.02-19.02</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">8 НЕДЕЛЯ 20.02-26.02</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">9 НЕДЕЛЯ 20.02-26.02</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">10НЕДЕЛЯ 27.02-05.02</a>     ",
+          "text": "",
+          "title": "<p>&nbsp; &nbsp; ФЕВРАЛЬ 2017<br></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_styles": {
+            "H3": {
+              "font-size": "18px"
+            },
+            ".btn": {
+              "font-size": "8px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            "P": {
+              "font-size": "12px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
+          "_anchor": "msg-box1-1e",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showButtons": true,
+            "showText": true,
+            "showTitle": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">10НЕДЕЛЯ 06.02-12.02</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">11НЕДЕЛЯ 13.02-19.02</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">12НЕДЕЛЯ 20.02-26.02</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">13НЕДЕЛЯ 20.02-26.02</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">14НЕДЕЛЯ 27.02-05.03</a>     ",
+          "text": "",
+          "title": "<p>&nbsp; &nbsp; МАРТ 2017<br></p>"
+        }
+      ]
+    },
+    "ПОЕЗДНОЙ ДИСПЕТЧЕР.html": {
+      "settings": {
+        "title": "Web Site Maker Title",
+        "meta_descr": "Web Site Maker Description",
+        "order": 2
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "18px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "text-align": "right"
+            },
+            "SMALL": {
+              "font-size": "11px",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-19",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#dcdcdc",
+            "showMeta": true
+          },
+          "title": "<span style=\"font-weight: normal;\">ПОЕЗДНОЙ ДИСПЕТЧЕР</span>",
+          "meta": "выберите период"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_styles": {
+            "H3": {
+              "font-size": "18px"
+            },
+            ".btn": {
+              "font-size": "8px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            "P": {
+              "font-size": "12px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
+          "_anchor": "msg-box1-1a",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showButtons": true,
+            "showText": true,
+            "showTitle": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"ДНЦ НЕДЕЛЯ 6.html\" data-toolbar=\"-mbrBtnMove\">6 НЕДЕЛЯ 06.02-12.02</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">7 НЕДЕЛЯ 13.02-19.02</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">8 НЕДЕЛЯ 20.02-26.02</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">9 НЕДЕЛЯ 20.02-26.02</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">10НЕДЕЛЯ 27.02-05.02</a>     ",
+          "text": "",
+          "title": "<p>&nbsp; &nbsp; ФЕВРАЛЬ 2017<br></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_styles": {
+            "H3": {
+              "font-size": "18px"
+            },
+            ".btn": {
+              "font-size": "8px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            "P": {
+              "font-size": "12px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
+          "_anchor": "msg-box1-1b",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showButtons": true,
+            "showText": true,
+            "showTitle": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">10НЕДЕЛЯ 06.02-12.02</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">11НЕДЕЛЯ 13.02-19.02</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">12НЕДЕЛЯ 20.02-26.02</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">13НЕДЕЛЯ 20.02-26.02</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">14НЕДЕЛЯ 27.02-05.03</a>     ",
+          "text": "",
+          "title": "<p>&nbsp; &nbsp; МАРТ 2017<br></p>"
+        }
+      ]
+    },
+    "МАНЕВРОВЫЙ ДИСПЕТЧЕР.html": {
+      "settings": {
+        "title": "Web Site Maker Title",
+        "meta_descr": "Web Site Maker Description",
+        "order": 3
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "18px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "text-align": "right"
+            },
+            "SMALL": {
+              "font-size": "11px",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-18",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#dcdcdc",
+            "showMeta": true
+          },
+          "title": "<span style=\"font-weight: normal;\">МАНЕВРОВЫЙ ДИСПЕТЧЕР</span>",
+          "meta": "выберите период"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-l",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showButtons": true,
+            "showText": true,
+            "showTitle": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"ДСЦ НЕДЕЛЯ 6.html\" data-toolbar=\"-mbrBtnMove\">6 НЕДЕЛЯ 06.02-12.02</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">7 НЕДЕЛЯ 13.02-19.02</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">8 НЕДЕЛЯ 20.02-26.02</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">9 НЕДЕЛЯ 20.02-26.02</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">10НЕДЕЛЯ 27.02-05.02</a>     ",
+          "text": "",
+          "title": "<p>&nbsp; &nbsp; ФЕВРАЛЬ 2017<br></p>",
+          "_styles": {
+            "H3": {
+              "font-size": "18px"
+            },
+            ".btn": {
+              "font-size": "8px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            "P": {
+              "font-size": "12px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_styles": {
+            "H3": {
+              "font-size": "18px"
+            },
+            ".btn": {
+              "font-size": "8px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            "P": {
+              "font-size": "12px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
+          "_anchor": "msg-box1-n",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showButtons": true,
+            "showText": true,
+            "showTitle": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">10НЕДЕЛЯ 06.02-12.02</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">11НЕДЕЛЯ 13.02-19.02</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">12НЕДЕЛЯ 20.02-26.02</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">13НЕДЕЛЯ 20.02-26.02</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">14НЕДЕЛЯ 27.02-05.03</a>     ",
+          "text": "",
+          "title": "<p>&nbsp; &nbsp; МАРТ 2017<br></p>"
+        }
+      ]
+    },
+    "ДСЦ НЕДЕЛЯ 6.html": {
+      "settings": {
+        "title": "Site Builder Title",
+        "meta_descr": "Site Builder Description",
+        "order": 11
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "12px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-o",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "0",
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "Действия работников (сигналиста, регулировщика) при наличии маневрового локомотива, не соответствующего требованиям безопасности при работе машиниста в одно лицо",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-p",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<br><blockquote><p>&nbsp;&nbsp;&nbsp;&nbsp;При обнаружении неисправностей путей, сигналов и др. железнодорожных сооружений, угрожающих безопасности движения или жизни людей, сигналист, регулировщик должен немедленно всеми доступными ему способами принять меры к остановке поезда (маневрового состава) и ограждению опасного места, а также поставить в известность непосредственного руководителя работ или администрацию предприятия.</p><p><br></p><p>Маневровый тепловоз должен быть оборудован:</p><p><br></p><p>а) двумя пультами управления - с правой и левой стороны;</p><p>б) радиостанцией, обеспечивающей бесперебойную связь машиниста с правой и левой стороны с дежурным по станции (ДСП) или маневровым диспетчером со всех точек, обслуживаемых районов станции;</p><p>в) устройствами АЛСН;</p><p>г) электропневматическим приводом расцепления автосцепок.</p><p><br></p><p>Запрещается выдача тепловозов из депо с неисправностью вышеуказанных устройств.</p><p><br></p><p>При наличии маневрового локомотива, не соотствующего требованиям безопасности работникам также необходимо поставить в известность непосредственного руководителя работ или администрацию предприятия.</p><p><br></p></blockquote>",
+          "_styles": {
+            "BLOCKQUOTE": {
+              "font-size": "10px"
+            },
+            "P": {
+              "font-size": "10px"
+            }
+          }
+        }
+      ]
+    },
+    "ДНЦ НЕДЕЛЯ 6.html": {
+      "settings": {
+        "title": "Site Builder Title",
+        "meta_descr": "Site Builder Description",
+        "order": 10
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "12px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-s",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "0",
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "Маневровая работа на промежуточных станциях с поездами, превышающими полезную длину приёмо-отправочных путей",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_styles": {
+            "BLOCKQUOTE": {
+              "font-size": "10px"
+            },
+            "P": {
+              "font-size": "10px"
+            }
+          },
+          "_anchor": "content2-t",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<br><blockquote><p>&nbsp; &nbsp; Ответ на этот вопрос находится в разработке</p></blockquote>"
+        }
+      ]
+    },
+    "ДСП НЕДЕЛЯ 6.html": {
+      "settings": {
+        "title": "Site Builder Title",
+        "meta_descr": "Site Builder Description",
+        "order": 12
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "12px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-u",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "0",
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "Действия ДСП при приготовлении, замыкании, проверке готовности маршрута в условиях отказов в работе технических средств (исходя их местных условий)",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_styles": {
+            "BLOCKQUOTE": {
+              "font-size": "10px"
+            },
+            "P": {
+              "font-size": "10px"
+            },
+            "UL": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "content2-v",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<br><blockquote><p>&nbsp; &nbsp; Перед приемом или отправлением поезда при запрещающем показании&nbsp;<span style=\"line-height: 1.5;\">светофора ДСП обязан:&nbsp;</span></p><p><span style=\"line-height: 1.5;\"><br></span></p><ul><li><span style=\"line-height: 1.5;\">рукоятки всех стрелок, входящих в маршрут и охранных, повернуть в&nbsp;</span><span style=\"line-height: 1.5;\">требуемое положение, навесить на них красные колпачки;</span></li><li><span style=\"line-height: 1.5;\">&nbsp;</span><span style=\"line-height: 1.5;\">в правильности установки всех стрелок убедиться по контрольным приборам.</span></li><li>правильность установки стрелок, положение которых на пульте не&nbsp;<span style=\"line-height: 1.5;\">контролируется, должна быть проверена на путях работником станции в&nbsp;</span><span style=\"line-height: 1.5;\">соответствии с ТРА</span></li><li>после установки стрелок и проверки правильности их установки лично (или&nbsp;<span style=\"line-height: 1.5;\">по его указанию другим работником, установленным ТРА станци) проверяет&nbsp;</span><span style=\"line-height: 1.5;\">свободность пути по маршруту следования поезда, а также свободность&nbsp;</span><span style=\"line-height: 1.5;\">изолированных стрелочных участков, входящих в маршрут и смежных&nbsp;</span><span style=\"line-height: 1.5;\">негабаритных участков;</span></li><li>при наличии маневровых светофоров там, где возможно, маршрут набрать&nbsp;<span style=\"line-height: 1.5;\">из попутных маневровых маршрутов и стрелки запереть открытием&nbsp;</span><span style=\"line-height: 1.5;\">маневровых сигналов; &nbsp;</span></li><li><b style=\"line-height: 1.5; font-style: normal;\">Выполнение этой операции п о с л е склонения рукояток поможет ДСП проверить правильность своих&nbsp;</b><b style=\"line-height: 1.5; font-style: normal;\">действий- белая полоса пройдет при нулевом показании амперметра при условии, что ни одна стрелочная&nbsp;</b><b style=\"line-height: 1.5; font-style: normal;\">рукоятка не была пропущена.</b><b style=\"line-height: 1.5; font-style: normal;\">&nbsp;</b></li><li>при невозможности открыть маневровые светофоры по маршруту&nbsp;<span style=\"line-height: 1.5;\">следования поезда стрелки замыкаются специальными кнопками&nbsp;</span><span style=\"line-height: 1.5;\">\"замыкание стрелок\".&nbsp;</span><span style=\"line-height: 1.5;\">При этом исключается возможность перевода стрелок в&nbsp;</span><span style=\"line-height: 1.5;\">соответствующей горловине (районе станции) путем снятия питания с&nbsp;</span><span style=\"line-height: 1.5;\">цепей стрелочных переводов.</span></li><li>при наличии переезда на станции нажать кнопку \"Закрытие переезда\";</li><li>доложить поездному диспетчеру о готовности маршрута и способе запирания&nbsp;<span style=\"line-height: 1.5;\">стрелок в маршруте;</span></li><li>получить разрешение ДНЦ на прием или отправление поезда при&nbsp;<span style=\"line-height: 1.5;\">запрещающем показании сигнала</span></li></ul></blockquote>"
+        }
+      ]
+    },
+    "СОСТ НЕДЕЛЯ 6.html": {
+      "settings": {
+        "title": "Site Builder Title",
+        "meta_descr": "Site Builder Description",
+        "order": 14
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "12px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1u",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "0",
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "Действия ДСП при приготовлении, замыкании, проверке готовности маршрута в условиях отказов в работе технических средств (исходя их местных условий)",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_styles": {
+            "BLOCKQUOTE": {
+              "font-size": "10px"
+            },
+            "P": {
+              "font-size": "10px"
+            },
+            "UL": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "content2-1v",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<br><blockquote><p>&nbsp; &nbsp; Перед приемом или отправлением поезда при запрещающем показании&nbsp;<span style=\"line-height: 1.5;\">светофора ДСП обязан:&nbsp;</span></p><p><span style=\"line-height: 1.5;\"><br></span></p><ul><li><span style=\"line-height: 1.5;\">рукоятки всех стрелок, входящих в маршрут и охранных, повернуть в&nbsp;</span><span style=\"line-height: 1.5;\">требуемое положение, навесить на них красные колпачки;</span></li><li><span style=\"line-height: 1.5;\">&nbsp;</span><span style=\"line-height: 1.5;\">в правильности установки всех стрелок убедиться по контрольным приборам.</span></li><li>правильность установки стрелок, положение которых на пульте не&nbsp;<span style=\"line-height: 1.5;\">контролируется, должна быть проверена на путях работником станции в&nbsp;</span><span style=\"line-height: 1.5;\">соответствии с ТРА</span></li><li>после установки стрелок и проверки правильности их установки лично (или&nbsp;<span style=\"line-height: 1.5;\">по его указанию другим работником, установленным ТРА станци) проверяет&nbsp;</span><span style=\"line-height: 1.5;\">свободность пути по маршруту следования поезда, а также свободность&nbsp;</span><span style=\"line-height: 1.5;\">изолированных стрелочных участков, входящих в маршрут и смежных&nbsp;</span><span style=\"line-height: 1.5;\">негабаритных участков;</span></li><li>при наличии маневровых светофоров там, где возможно, маршрут набрать&nbsp;<span style=\"line-height: 1.5;\">из попутных маневровых маршрутов и стрелки запереть открытием&nbsp;</span><span style=\"line-height: 1.5;\">маневровых сигналов; &nbsp;</span></li><li><b style=\"line-height: 1.5; font-style: normal;\">Выполнение этой операции п о с л е склонения рукояток поможет ДСП проверить правильность своих&nbsp;</b><b style=\"line-height: 1.5; font-style: normal;\">действий- белая полоса пройдет при нулевом показании амперметра при условии, что ни одна стрелочная&nbsp;</b><b style=\"line-height: 1.5; font-style: normal;\">рукоятка не была пропущена.</b><b style=\"line-height: 1.5; font-style: normal;\">&nbsp;</b></li><li>при невозможности открыть маневровые светофоры по маршруту&nbsp;<span style=\"line-height: 1.5;\">следования поезда стрелки замыкаются специальными кнопками&nbsp;</span><span style=\"line-height: 1.5;\">\"замыкание стрелок\".&nbsp;</span><span style=\"line-height: 1.5;\">При этом исключается возможность перевода стрелок в&nbsp;</span><span style=\"line-height: 1.5;\">соответствующей горловине (районе станции) путем снятия питания с&nbsp;</span><span style=\"line-height: 1.5;\">цепей стрелочных переводов.</span></li><li>при наличии переезда на станции нажать кнопку \"Закрытие переезда\";</li><li>доложить поездному диспетчеру о готовности маршрута и способе запирания&nbsp;<span style=\"line-height: 1.5;\">стрелок в маршруте;</span></li><li>получить разрешение ДНЦ на прием или отправление поезда при&nbsp;<span style=\"line-height: 1.5;\">запрещающем показании сигнала</span></li></ul></blockquote>"
+        }
+      ]
+    },
+    "СИГН НЕДЕЛЯ 6.html": {
+      "settings": {
+        "title": "Site Builder Title",
+        "meta_descr": "Site Builder Description",
+        "order": 15
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "12px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1w",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "0",
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "Действия ДСП при приготовлении, замыкании, проверке готовности маршрута в условиях отказов в работе технических средств (исходя их местных условий)",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_styles": {
+            "BLOCKQUOTE": {
+              "font-size": "10px"
+            },
+            "P": {
+              "font-size": "10px"
+            },
+            "UL": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "content2-1x",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<br><blockquote><p>&nbsp; &nbsp; Перед приемом или отправлением поезда при запрещающем показании&nbsp;<span style=\"line-height: 1.5;\">светофора ДСП обязан:&nbsp;</span></p><p><span style=\"line-height: 1.5;\"><br></span></p><ul><li><span style=\"line-height: 1.5;\">рукоятки всех стрелок, входящих в маршрут и охранных, повернуть в&nbsp;</span><span style=\"line-height: 1.5;\">требуемое положение, навесить на них красные колпачки;</span></li><li><span style=\"line-height: 1.5;\">&nbsp;</span><span style=\"line-height: 1.5;\">в правильности установки всех стрелок убедиться по контрольным приборам.</span></li><li>правильность установки стрелок, положение которых на пульте не&nbsp;<span style=\"line-height: 1.5;\">контролируется, должна быть проверена на путях работником станции в&nbsp;</span><span style=\"line-height: 1.5;\">соответствии с ТРА</span></li><li>после установки стрелок и проверки правильности их установки лично (или&nbsp;<span style=\"line-height: 1.5;\">по его указанию другим работником, установленным ТРА станци) проверяет&nbsp;</span><span style=\"line-height: 1.5;\">свободность пути по маршруту следования поезда, а также свободность&nbsp;</span><span style=\"line-height: 1.5;\">изолированных стрелочных участков, входящих в маршрут и смежных&nbsp;</span><span style=\"line-height: 1.5;\">негабаритных участков;</span></li><li>при наличии маневровых светофоров там, где возможно, маршрут набрать&nbsp;<span style=\"line-height: 1.5;\">из попутных маневровых маршрутов и стрелки запереть открытием&nbsp;</span><span style=\"line-height: 1.5;\">маневровых сигналов; &nbsp;</span></li><li><b style=\"line-height: 1.5; font-style: normal;\">Выполнение этой операции п о с л е склонения рукояток поможет ДСП проверить правильность своих&nbsp;</b><b style=\"line-height: 1.5; font-style: normal;\">действий- белая полоса пройдет при нулевом показании амперметра при условии, что ни одна стрелочная&nbsp;</b><b style=\"line-height: 1.5; font-style: normal;\">рукоятка не была пропущена.</b><b style=\"line-height: 1.5; font-style: normal;\">&nbsp;</b></li><li>при невозможности открыть маневровые светофоры по маршруту&nbsp;<span style=\"line-height: 1.5;\">следования поезда стрелки замыкаются специальными кнопками&nbsp;</span><span style=\"line-height: 1.5;\">\"замыкание стрелок\".&nbsp;</span><span style=\"line-height: 1.5;\">При этом исключается возможность перевода стрелок в&nbsp;</span><span style=\"line-height: 1.5;\">соответствующей горловине (районе станции) путем снятия питания с&nbsp;</span><span style=\"line-height: 1.5;\">цепей стрелочных переводов.</span></li><li>при наличии переезда на станции нажать кнопку \"Закрытие переезда\";</li><li>доложить поездному диспетчеру о готовности маршрута и способе запирания&nbsp;<span style=\"line-height: 1.5;\">стрелок в маршруте;</span></li><li>получить разрешение ДНЦ на прием или отправление поезда при&nbsp;<span style=\"line-height: 1.5;\">запрещающем показании сигнала</span></li></ul></blockquote>"
+        }
+      ]
+    },
+    "ПР-К НЕДЕЛЯ 6.html": {
+      "settings": {
+        "title": "Site Builder Title",
+        "meta_descr": "Site Builder Description",
+        "order": 16
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "12px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1y",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "0",
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "Действия ДСП при приготовлении, замыкании, проверке готовности маршрута в условиях отказов в работе технических средств (исходя их местных условий)",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_styles": {
+            "BLOCKQUOTE": {
+              "font-size": "10px"
+            },
+            "P": {
+              "font-size": "10px"
+            },
+            "UL": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "content2-1z",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<br><blockquote><p>&nbsp; &nbsp; Перед приемом или отправлением поезда при запрещающем показании&nbsp;<span style=\"line-height: 1.5;\">светофора ДСП обязан:&nbsp;</span></p><p><span style=\"line-height: 1.5;\"><br></span></p><ul><li><span style=\"line-height: 1.5;\">рукоятки всех стрелок, входящих в маршрут и охранных, повернуть в&nbsp;</span><span style=\"line-height: 1.5;\">требуемое положение, навесить на них красные колпачки;</span></li><li><span style=\"line-height: 1.5;\">&nbsp;</span><span style=\"line-height: 1.5;\">в правильности установки всех стрелок убедиться по контрольным приборам.</span></li><li>правильность установки стрелок, положение которых на пульте не&nbsp;<span style=\"line-height: 1.5;\">контролируется, должна быть проверена на путях работником станции в&nbsp;</span><span style=\"line-height: 1.5;\">соответствии с ТРА</span></li><li>после установки стрелок и проверки правильности их установки лично (или&nbsp;<span style=\"line-height: 1.5;\">по его указанию другим работником, установленным ТРА станци) проверяет&nbsp;</span><span style=\"line-height: 1.5;\">свободность пути по маршруту следования поезда, а также свободность&nbsp;</span><span style=\"line-height: 1.5;\">изолированных стрелочных участков, входящих в маршрут и смежных&nbsp;</span><span style=\"line-height: 1.5;\">негабаритных участков;</span></li><li>при наличии маневровых светофоров там, где возможно, маршрут набрать&nbsp;<span style=\"line-height: 1.5;\">из попутных маневровых маршрутов и стрелки запереть открытием&nbsp;</span><span style=\"line-height: 1.5;\">маневровых сигналов; &nbsp;</span></li><li><b style=\"line-height: 1.5; font-style: normal;\">Выполнение этой операции п о с л е склонения рукояток поможет ДСП проверить правильность своих&nbsp;</b><b style=\"line-height: 1.5; font-style: normal;\">действий- белая полоса пройдет при нулевом показании амперметра при условии, что ни одна стрелочная&nbsp;</b><b style=\"line-height: 1.5; font-style: normal;\">рукоятка не была пропущена.</b><b style=\"line-height: 1.5; font-style: normal;\">&nbsp;</b></li><li>при невозможности открыть маневровые светофоры по маршруту&nbsp;<span style=\"line-height: 1.5;\">следования поезда стрелки замыкаются специальными кнопками&nbsp;</span><span style=\"line-height: 1.5;\">\"замыкание стрелок\".&nbsp;</span><span style=\"line-height: 1.5;\">При этом исключается возможность перевода стрелок в&nbsp;</span><span style=\"line-height: 1.5;\">соответствующей горловине (районе станции) путем снятия питания с&nbsp;</span><span style=\"line-height: 1.5;\">цепей стрелочных переводов.</span></li><li>при наличии переезда на станции нажать кнопку \"Закрытие переезда\";</li><li>доложить поездному диспетчеру о готовности маршрута и способе запирания&nbsp;<span style=\"line-height: 1.5;\">стрелок в маршруте;</span></li><li>получить разрешение ДНЦ на прием или отправление поезда при&nbsp;<span style=\"line-height: 1.5;\">запрещающем показании сигнала</span></li></ul></blockquote>"
+        }
+      ]
+    },
+    "ПР-СДК НЕДЕЛЯ 6.html": {
+      "settings": {
+        "title": "Site Builder Title",
+        "meta_descr": "Site Builder Description",
+        "order": 17
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "12px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-20",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "0",
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "Действия ДСП при приготовлении, замыкании, проверке готовности маршрута в условиях отказов в работе технических средств (исходя их местных условий)",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_styles": {
+            "BLOCKQUOTE": {
+              "font-size": "10px"
+            },
+            "P": {
+              "font-size": "10px"
+            },
+            "UL": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "content2-21",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<br><blockquote><p>&nbsp; &nbsp; Перед приемом или отправлением поезда при запрещающем показании&nbsp;<span style=\"line-height: 1.5;\">светофора ДСП обязан:&nbsp;</span></p><p><span style=\"line-height: 1.5;\"><br></span></p><ul><li><span style=\"line-height: 1.5;\">рукоятки всех стрелок, входящих в маршрут и охранных, повернуть в&nbsp;</span><span style=\"line-height: 1.5;\">требуемое положение, навесить на них красные колпачки;</span></li><li><span style=\"line-height: 1.5;\">&nbsp;</span><span style=\"line-height: 1.5;\">в правильности установки всех стрелок убедиться по контрольным приборам.</span></li><li>правильность установки стрелок, положение которых на пульте не&nbsp;<span style=\"line-height: 1.5;\">контролируется, должна быть проверена на путях работником станции в&nbsp;</span><span style=\"line-height: 1.5;\">соответствии с ТРА</span></li><li>после установки стрелок и проверки правильности их установки лично (или&nbsp;<span style=\"line-height: 1.5;\">по его указанию другим работником, установленным ТРА станци) проверяет&nbsp;</span><span style=\"line-height: 1.5;\">свободность пути по маршруту следования поезда, а также свободность&nbsp;</span><span style=\"line-height: 1.5;\">изолированных стрелочных участков, входящих в маршрут и смежных&nbsp;</span><span style=\"line-height: 1.5;\">негабаритных участков;</span></li><li>при наличии маневровых светофоров там, где возможно, маршрут набрать&nbsp;<span style=\"line-height: 1.5;\">из попутных маневровых маршрутов и стрелки запереть открытием&nbsp;</span><span style=\"line-height: 1.5;\">маневровых сигналов; &nbsp;</span></li><li><b style=\"line-height: 1.5; font-style: normal;\">Выполнение этой операции п о с л е склонения рукояток поможет ДСП проверить правильность своих&nbsp;</b><b style=\"line-height: 1.5; font-style: normal;\">действий- белая полоса пройдет при нулевом показании амперметра при условии, что ни одна стрелочная&nbsp;</b><b style=\"line-height: 1.5; font-style: normal;\">рукоятка не была пропущена.</b><b style=\"line-height: 1.5; font-style: normal;\">&nbsp;</b></li><li>при невозможности открыть маневровые светофоры по маршруту&nbsp;<span style=\"line-height: 1.5;\">следования поезда стрелки замыкаются специальными кнопками&nbsp;</span><span style=\"line-height: 1.5;\">\"замыкание стрелок\".&nbsp;</span><span style=\"line-height: 1.5;\">При этом исключается возможность перевода стрелок в&nbsp;</span><span style=\"line-height: 1.5;\">соответствующей горловине (районе станции) путем снятия питания с&nbsp;</span><span style=\"line-height: 1.5;\">цепей стрелочных переводов.</span></li><li>при наличии переезда на станции нажать кнопку \"Закрытие переезда\";</li><li>доложить поездному диспетчеру о готовности маршрута и способе запирания&nbsp;<span style=\"line-height: 1.5;\">стрелок в маршруте;</span></li><li>получить разрешение ДНЦ на прием или отправление поезда при&nbsp;<span style=\"line-height: 1.5;\">запрещающем показании сигнала</span></li></ul></blockquote>"
+        }
+      ]
+    },
+    "ДСПГ НЕДЕЛЯ 6.html": {
+      "settings": {
+        "title": "Site Builder Title",
+        "meta_descr": "Site Builder Description",
+        "order": 13
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "12px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-22",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "0",
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "Порядок действий при неисправности горочных светофоров , их повторителей, маневровых светофоров&nbsp;",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_styles": {
+            "BLOCKQUOTE": {
+              "font-size": "10px"
+            },
+            "P": {
+              "font-size": "10px"
+            },
+            "UL": {
+              "text-align": "left",
+              "font-size": "10px"
+            }
+          },
+          "_anchor": "content2-23",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<br><blockquote><p>&nbsp; &nbsp;При обнаружении неисправности ДСПГ должен проверить:</p><p><br></p><ul><li>не является ли это следствием неправильных действий его или других&nbsp;<span style=\"line-height: 1.5;\">работников;</span></li><li><span style=\"line-height: 1.5;\">имеется ли контроль положения стрелок и правильно&nbsp;</span><span style=\"line-height: 1.5;\">ли они установлены в маршруте;</span></li><li>не остались ли стрелки замкнутыми в других маршрутах;</li><li>не перегорела ли лампочка на пульте;</li></ul><p><br></p><p><span style=\"line-height: 1.5;\">возможно, что сигнал&nbsp;</span><span style=\"line-height: 1.5;\">фактически открылся, но контрольная лампочка на пульте перегорела. Убедившись через&nbsp;</span><span style=\"line-height: 1.5;\">машиниста локомотива или других работников, что светофор открылся, ДСПГ продолжает работать</span><span style=\"line-height: 1.5;\">&nbsp;нормальным порядком, а для замены лампочки вызывает ШН</span></p><p><br></p><p>ДСПГ обязан:</p><p>сделать запись в Журнале осмотра (ДУ-46) : \"Светофор \"Г2\" не открылся при&nbsp;<span style=\"line-height: 1.5;\">правильно приготовленном маршруте тепловозу №3739. ДСПГ Хорсуненко\"&nbsp;</span><span style=\"line-height: 1.5;\">сообщения, фамилии и должности работника, кому сообщено, с последующей&nbsp;</span><span style=\"line-height: 1.5;\">отметкой их явки и подписью работника;</span></p><p>доложить ДСЦ, ДСЦС;</p><p>вызвать ДС (зам. ДС);</p><p>\n</p></blockquote>"
+        }
+      ]
+    }
+  }
+}
